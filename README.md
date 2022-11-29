@@ -18,7 +18,7 @@
 
 #### ❤ *About Zu*
 
-<a href="https://blog.naver.com/zuyoe"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Micro.blog&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Micro.blog&logoColor=white"/></a> 
 <a href="https://bramble-grain-7b3.notion.site/6dc446121b724374873eb076409d9b1d"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 <a href="https://www.instagram.com/zu.yoe/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/>
